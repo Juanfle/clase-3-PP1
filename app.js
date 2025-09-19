@@ -39,3 +39,5 @@ botonComprar.addEventListener("click", function () {
     }
 
 })
+
+// hola que tal
